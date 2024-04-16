@@ -3,6 +3,8 @@
 ## What’s in this Repo?
 I’ve taken the original project and added my own touch to it. You’ll find a new folder called ReactInternAssement where I’ve been working on a cool ReactJS + Vite project.
 
+<img src="Screenshot 2024-04-16 175959.png"/>
+
 ## Development Process
 
 During the development process, I encountered several challenges, particularly with the animation aspects of the project. Animations in ReactJS can be quite intricate, especially when aiming for smooth transitions and responsive interactions.
