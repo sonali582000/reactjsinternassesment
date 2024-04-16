@@ -10,8 +10,12 @@ During the development process, I encountered several challenges, particularly w
 To overcome these hurdles, I sought assistance from various online resources. This included reading documentation, browsing through community forums, and studying examples on platforms like Stack Overflow and CodePen. These resources proved invaluable, providing insights and techniques that I could adapt and integrate into my project.
 
 ## The Tough Parts
-**Looking Good Everywhere**: It was a bit of a puzzle to get the animations to look the same on different web browsers.
- **CSS Animations**: I deepened my understanding of keyframes and transition properties to enhance the user interface.
+<ul>
+  <li><b>Looking Good Everywhere</b>: It was a bit of a puzzle to get the animations to look the same on different web browsers.</li>
+  <li><b>CSS Animations</b>: I deepened my understanding of keyframes and transition properties to enhance the user interface.</li>
+</ul>
+
+ 
 
 ## Conclusion
 
