@@ -1,0 +1,14 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #e8eaee;
+}
+
+/* Style the text as per the image description */
+.text {
+  color: #808080; /* Standard readable font color */
+  font-size: 16px; /* Adjust the font size as needed */
+  text-align: center;
+  padding: 20px;
+}
